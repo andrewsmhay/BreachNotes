@@ -15,7 +15,11 @@ Adding data:
 If you have any questions, please reach out to @andrewsmhay.
 
 ## 2016
-* 
+* [2016 Data Breach Industry Forecast - Experian Data Breach Resolution](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/2016-experian-data-breach-industry-forecast.pdf)
+* [Hacking Healthcare IT in 2016 - Institute for Critical Infrastructure Technology (ICIT)](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/ICIT-Brief-Hacking-Healthcare-IT-in-2016.pdf)
+* [The Global Risks Report 2016 - World Economic Forum](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/WEF_GRR16.pdf)
+* [Cisco 2016 Annual Security Report - Cisco Systems](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/cisco-asr-2016.pdf)
+* [Turnaround and Transformation in Cybersecurity: Key findings from The Global State of Information Security Survey 2016 - PWC](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/pwc-global-state-of-information-security-survey-20.pdf)
 
 ## 2015
 * 
