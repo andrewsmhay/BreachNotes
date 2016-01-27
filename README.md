@@ -19,3 +19,6 @@ If you have any questions, please reach out to @andrewsmhay.
 
 ## 2015
 * 
+
+## Special Thanks
+Special thanks to the folks at [APTNotes](https://github.com/kbandla/APTnotes) for the idea.
