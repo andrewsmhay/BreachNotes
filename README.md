@@ -15,6 +15,13 @@ Adding data:
 If you have any questions, please reach out to @andrewsmhay.
 
 ## 2016
+* [State of Application Security – Vol. 5, 2016 - Consolidated Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_Consolidated_Report.pdf) - Arxan
+* [State of Application Security – Vol. 5, 2016 - Healthcare Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_Healthcare_Report.pdf) - Arxan
+* [State of Application Security – Vol. 5, 2016 - Financial Services Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_FinServ_Report.pdf) - Arxan
+* [Study Finds More British Internet Users Concerned About Data Privacy Than Losing Their Income](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Final%20TRUSTe-NCSA%20GB%20Consumer%20Research%20Press%20Release%202016%20FINAL%20270116.pdf) - TRUSTe/NCSA
+* [Study Finds More Americans Concerned About Data Privacy Than Losing Their Income](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Final%20TRUSTe-NCSA%20US%20Consumer%20Research%20Press%20Release%202016%20Final%20270116.pdf) - TRUSTe/NCSA
+* [The Cloud Balancing Act for IT: Between Promise and Peril](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/WP%20CSA%20Survey%20Cloud%20Balancing%20Act%200116.pdf) - Cloud Security Alliance (CSA), Skyfence
+* [2015 WordPress Security Survey](https://www.wordfence.com/learn/2015-wordpress-security-survey/) - Wordfence
 * [2016 Data Breach Industry Forecast](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/2016-experian-data-breach-industry-forecast.pdf) - Experian Data Breach Resolution
 * [Hacking Healthcare IT in 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/ICIT-Brief-Hacking-Healthcare-IT-in-2016.pdf)  - Institute for Critical Infrastructure Technology (ICIT)
 * [The Global Risks Report 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/WEF_GRR16.pdf) - World Economic Forum 
@@ -22,6 +29,10 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Turnaround and Transformation in Cybersecurity: Key findings from The Global State of Information Security Survey 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/pwc-global-state-of-information-security-survey-20.pdf) - PWC
 
 ## 2015
+* [State of Application Security – Vol. 4, 2015](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/State-of-Application-Security-Report-Vol-4-2015.pdf) - Arxan
+* [Behind Our Digital Doors: Cybersecurity & the Connected Home](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/BEHIND%20OUR%20DIGITAL%20DOORS%20-%20ESET_NCSA%20Fast%20Facts.pdf) - Raytheon, NCSA
+* [Securing Our Future: Closing the Cybersecurity Talent Gap](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/Securing%20Our%20Future%20Closing%20the%20Cybersecurity%20Talent%20Gap.pdf) - Raytheon, NCSA
+* [EY’s Global InformationvSecurity Survey 2015](https://github.com/andrewsmhay/BreachNotes/raw/master/EY-Global-Information-Security-Survey-2015-summary.pdf) - EY
 * [Global Insurance & Regulatory Bulletin](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/150326-Newsletter-Global-Insurance-Bulletin.pdf) - Mayer Brown
 * [2015 Global Cyber Impact Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/2015-Global-Cyber-Impact-Report-Final.pdf) - Aon Risk Services, Ponemon Institute
 * [Data Breach Quick View: Mid-Year 2015 Data Breach Trends](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/2015-MidYearDataBreachQuickView.pdf) - Risk Based Security
