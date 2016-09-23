@@ -15,6 +15,31 @@ Adding data:
 If you have any questions, please reach out to @andrewsmhay.
 
 ## 2016
+* [The Rising Face Of Cyber Crime: Ransomware](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/BitSight_Insights_-_The_Rising_Face_of_Cyber_Crime_Ransomware.pdf) - BitSight Technologies
+* [2016 Data Breach Litigation Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/d7691a96-5525-4e86-9e1f-80ee7f6a8185.pdf) - Bryan Cave
+* [Business @ Work](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Okta_Businesses_at_Work_March_2016.pdf) - Okta
+* [2016 Data Breach Investigations Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/rp_DBIR_2016_Report_Insiders_en_xg.pdf) - Verizon
+* [Underground Hacker Markets Annual Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/fSecureWorksSECO2123NUndergroundHackerMarketplace.pdf) - SecureWorks
+* [2016 Global Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/forcepoint_2016_global_threat_report_en.pdf) - Forcepoint Security Labs
+* [Global Threat Intelligence Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/2016-NTT-Group-GTIR.pdf) - NTT Group
+* [Internet Trends 2016 – Code Conference](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/2016_internet_trends_report_final.pdf) - KPCB
+* [Determining the True Costs of a Data Breach](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/SecureWorksSECO214DeterminingCostsofBreach.pdf) - SecureWorks
+* [Flipping the Economics of Attacks](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/PAN_Ponemon_Report.pdf) - Ponemon Institute
+* [RSA Cybersecurity Poverty Index](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
+* [2016 Cost of Data Breach Study: Global Analysis](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/SEL03094WWEN.PDF) - Ponemon Institute, IBM
+* [2016 Cost of Data Breach Study: United States](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/SEL03094USEN.PDF) - Ponemon Institute, IBM
+* [Quarterly Threat Intelligence Report Q2 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
+* [Closing Security Gaps to Protect Corporate Data: A Study of US and European Organizations](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Varonis_Ponemon_2016_Report.pdf) - Ponemon Institute
+* [The cost of incidents affecting CIIs](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/The cost of incidents affecting CIIs.pdf) - European Union Agency for Network and Information Security (ENISA)
+* [Security Beyond the Traditional Perimeter Executive Summary](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Ponemon_External_Threat_2016__ExecSumm.pdf) - Ponemon Institute
+* [How to Dramatically Improve Corporate IT Security without Spending Millions](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/How to Dramatically Improve Corporate IT Security Without Spending Millions - Praetorian.pdf) - Praetorian
+* [Threat Detection Effectiveness Survey](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/H14916-threat-detection-effectiveness-pdf-eb.pdf) - RSA
+* [Facing the cyber risk challenge](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/lloyds_cyber_surveyreport_v2_190916.pdf) - Lloyd's
+* [2016 First Half Review: Findings from the Breach Level Index](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Breach-Level-Index-Report-H12016.pdf) - Gemalto
+* [Examining the costs and causes of cyber incidents](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/cybsec.tyw001.full.pdf) - Journal of Cybersecurity Advance Access published August 25, 2016
+* [Exploits at the Endpoint: SANS 2016 Threat Landscape Survey](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/survey-threat-landscape.pdf) - The SANS Institute
+* [Compromised Credentials](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/CompromisedCredentials-LearnFromtheExposureoftheWorlds1000BiggestCompanies-Download.pdf) - Digital Shadows
+* [Datto's State of the Channel Ransomware Report 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/DattoStateOfTheChannelRansomwareReport2016_RH.pdf) - Datto
 * [BREACH REPORT 2015: Protected Health Information (PHI)](../master/2016/2016-experian-data-breach-industry-forecast.pdf) - Redspin
 * [State of Application Security – Vol. 5, 2016 - Consolidated Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_Consolidated_Report.pdf) - Arxan
 * [State of Application Security – Vol. 5, 2016 - Healthcare Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_Healthcare_Report.pdf) - Arxan
@@ -30,6 +55,8 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Turnaround and Transformation in Cybersecurity: Key findings from The Global State of Information Security Survey 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/pwc-global-state-of-information-security-survey-20.pdf) - PWC
 
 ## 2015
+* [2015 Global Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/15GlobalThreatReport.pdf) - CrowdStrike
+* [2015 SMB Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/SMBThreatReport2015.pdf) - Webroot
 * [State of Application Security – Vol. 4, 2015](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/State-of-Application-Security-Report-Vol-4-2015.pdf) - Arxan
 * [Behind Our Digital Doors: Cybersecurity & the Connected Home](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/BEHIND%20OUR%20DIGITAL%20DOORS%20-%20ESET_NCSA%20Fast%20Facts.pdf) - Raytheon, NCSA
 * [Securing Our Future: Closing the Cybersecurity Talent Gap](https://github.com/andrewsmhay/BreachNotes/raw/master/2015/Securing%20Our%20Future%20Closing%20the%20Cybersecurity%20Talent%20Gap.pdf) - Raytheon, NCSA
@@ -70,6 +97,9 @@ If you have any questions, please reach out to @andrewsmhay.
 
 ## 2014
 * [Just in Time Research: Data Breaches in Higher Education](https://github.com/andrewsmhay/BreachNotes/raw/master/2014/ECP1402.pdf) - EDUCAUSE
+
+## Other Documents
+* [State Data Security Breach Notification Laws](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/state_data_breach_matrix_Sep_2016.pdf) - Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C.
 
 ## Special Thanks
 Special thanks to the folks at [APTNotes](https://github.com/kbandla/APTnotes) for the idea.
