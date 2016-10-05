@@ -58,8 +58,9 @@ If you have any questions, please reach out to @andrewsmhay.
 * [State of Application Security – Vol. 5, 2016 - Healthcare Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_Healthcare_Report.pdf) - Arxan
 * [Study Finds More Americans Concerned About Data Privacy Than Losing Their Income](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Final%20TRUSTe-NCSA%20US%20Consumer%20Research%20Press%20Release%202016%20Final%20270116.pdf) - TRUSTe/NCSA
 * [Study Finds More British Internet Users Concerned About Data Privacy Than Losing Their Income](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Final%20TRUSTe-NCSA%20GB%20Consumer%20Research%20Press%20Release%202016%20FINAL%20270116.pdf) - TRUSTe/NCSA
+* [The Cyber Security Readiness of Canadian Organizations](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/2016-Scalar-Security-Study.pdf) - Scalar
 * [The Cloud Balancing Act for IT: Between Promise and Peril](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/WP%20CSA%20Survey%20Cloud%20Balancing%20Act%200116.pdf) - Cloud Security Alliance (CSA), Skyfence
-* [The cost of incidents affecting CIIs](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/The cost of incidents affecting CIIs.pdf) - European Union Agency for Network and Information Security (ENISA)
+* [The Cost of Incidents Affecting CIIs](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/The cost of incidents affecting CIIs.pdf) - European Union Agency for Network and Information Security (ENISA)
 * [The Global Risks Report 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/WEF_GRR16.pdf) - World Economic Forum 
 * [The Human Factor 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/human-factor-report-2016.pdf) - Proofpoint
 * [The 2016 Internet Organised Crime Threat Assessment (IOCTA)](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/europol_iocta_web_2016.pdf)
