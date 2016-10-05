@@ -23,6 +23,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [2016 Data Breach Litigation Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/d7691a96-5525-4e86-9e1f-80ee7f6a8185.pdf) - Bryan Cave
 * [2016 First Half Review: Findings from the Breach Level Index](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Breach-Level-Index-Report-H12016.pdf) - Gemalto
 * [2016 Global Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/forcepoint_2016_global_threat_report_en.pdf) - Forcepoint Security Labs
+* [2016 Network Security and Data Privacy Study: Are you prepared for a breach?](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Network-Security-and-Data-Privacy-Study_white_paper_FNL.pdf) - Dena Cusick, Wells Fargo Insurance
 * [2016 Vormetric Data Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Vormetric_2016_Data_Threat_Report_Global_WEB.pdf) - Vormetric
 * [BREACH REPORT 2015: Protected Health Information (PHI)](../master/2016/2016-experian-data-breach-industry-forecast.pdf) - Redspin
 * [Business @ Work](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Okta_Businesses_at_Work_March_2016.pdf) - Okta
@@ -67,6 +68,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Threat Detection Effectiveness Survey](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/H14916-threat-detection-effectiveness-pdf-eb.pdf) - RSA
 * [Turnaround and Transformation in Cybersecurity: Key findings from The Global State of Information Security Survey 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/pwc-global-state-of-information-security-survey-20.pdf) - PWC
 * [Underground Hacker Markets Annual Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/fSecureWorksSECO2123NUndergroundHackerMarketplace.pdf) - SecureWorks
+* [What’s Driving Boards of Directors to Make Cyber Security a Top Priority?](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/BoardSecurityOstermanReport.pdf) - Osterman Research
 
 ## 2015
 [2015 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2015/README.md)
