@@ -30,6 +30,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Cisco 2016 Midyear Cybersecurity Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/midyear-security-report-2016.pdf) - Cisco Systems
 * [Closing Security Gaps to Protect Corporate Data: A Study of US and European Organizations](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Varonis_Ponemon_2016_Report.pdf) - Ponemon Institute
 * [Compromised Credentials](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/CompromisedCredentials-LearnFromtheExposureoftheWorlds1000BiggestCompanies-Download.pdf) - Digital Shadows
+* [Consumer Attitudes Toward Data Breach Notifications and Loss of Personal Information](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/RAND_RR1187.pdf) - by Lillian Ablon, Paul Heaton, Diana Lavery, Sasha Romanosky, RAND Corporation
 * [Datto's State of the Channel Ransomware Report 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/DattoStateOfTheChannelRansomwareReport2016_RH.pdf) - Datto
 * [Dell Security Annual Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/dell-security-annual-threat-report-2016-white-paper-19757.pdf) - Dell
 * [Determining the True Costs of a Data Breach](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/SecureWorksSECO214DeterminingCostsofBreach.pdf) - SecureWorks
