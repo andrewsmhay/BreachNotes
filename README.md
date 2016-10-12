@@ -46,11 +46,14 @@ If you have any questions, please reach out to @andrewsmhay.
 * [How to Dramatically Improve Corporate IT Security without Spending Millions](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/How to Dramatically Improve Corporate IT Security Without Spending Millions - Praetorian.pdf) - Praetorian
 * [Internet Trends 2016 – Code Conference](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/2016_internet_trends_report_final.pdf) - KPCB
 * [Internet Security Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/istr-21-2016-en.pdf) - Symantec
+* [M-Trends 2016: Asia Pacific Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/m-trends-2016-apac-edition.pdf) - Mandiant, a FireEye company
+* [M-Trends 2016: EMEA Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/M-trends-2016-EMEA.pdf) - Mandiant, a FireEye company
 * [McAfee Labs Threats Report Q1 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/rp-quarterly-threats-mar-2016.pdf) - McAfee
 * [McAfee Labs Threats Report Q2 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/rp-quarterly-threats-may-2016.pdf) - McAfee
 * [McAfee Labs Threats Report Q3 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/rp-quarterly-threats-sep-2016.pdf) - McAfee
 * [Mimecast Business Email Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/report-business-email-threat-report2.pdf) - Mimecast
 * [Quarterly Threat Intelligence Report Q2 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
+* [Ransomware: The Truth Behind the Headlines](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/ransomware-the-truth-behind-the-headlines.pdf) - Trend Micro
 * [RSA Cybersecurity Poverty Index](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
 * [Security Beyond the Traditional Perimeter Executive Summary](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/Ponemon_External_Threat_2016__ExecSumm.pdf) - Ponemon Institute
 * [State of Application Security – Vol. 5, 2016 - Consolidated Edition](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/State_of_Application_Security_2016_Consolidated_Report.pdf) - Arxan
