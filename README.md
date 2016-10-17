@@ -52,6 +52,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [McAfee Labs Threats Report Q2 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/rp-quarterly-threats-may-2016.pdf) - McAfee
 * [McAfee Labs Threats Report Q3 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/rp-quarterly-threats-sep-2016.pdf) - McAfee
 * [Mimecast Business Email Threat Report](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/report-business-email-threat-report2.pdf) - Mimecast
+* [Proofpoint Quarterly Threat Summary - Q3 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/proofpoint-quarterly-threat-report-q316-cm.pdf) - Proofpoint
 * [Quarterly Threat Intelligence Report Q2 2016](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
 * [Ransomware: The Truth Behind the Headlines](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/ransomware-the-truth-behind-the-headlines.pdf) - Trend Micro
 * [RSA Cybersecurity Poverty Index](https://github.com/andrewsmhay/BreachNotes/raw/master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
