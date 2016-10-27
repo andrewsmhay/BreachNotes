@@ -17,6 +17,7 @@ If you have any questions, please reach out to @andrewsmhay.
 ## 2016
 
 * [Australian Cyber Security Centre (ACSC) 2016 Threat Report](../master/2016/ACSC_Threat_Report_2016.pdf) - Australian Government, Australian Cyber Security Centre
+* [Beazley Breach Insights - October 2016](../master/2016/201610-ransomware-attacks-set-to-quadruple-in-2016.pdf) - Beazley
 * [BREACH REPORT 2015: Protected Health Information (PHI)](../master/2016/2016-experian-data-breach-industry-forecast.pdf) - Redspin
 * [Business @ Work](../master/2016/Okta_Businesses_at_Work_March_2016.pdf) - Okta
 * [California Data Breach Report](../master/2016/2016-data-breach-report.pdf) - Attorney General, California Department of Justice
@@ -36,6 +37,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Examining the costs and causes of cyber incidents](../master/2016/cybsec.tyw001.full.pdf) - Journal of Cybersecurity Advance Access published August 25, 2016
 * [Exploits at the Endpoint: SANS 2016 Threat Landscape Survey](../master/2016/survey-threat-landscape.pdf) - The SANS Institute
 * [Facing the cyber risk challenge](../master/2016/lloyds_cyber_surveyreport_v2_190916.pdf) - Lloyd's
+* [Financial Industry Cybersecurity Report](../master/2016/securityscorecard_2016_financi_62124.pdf) - SecurityScorecard
 * [First Half Review: Findings from the Breach Level Index](../master/2016/Breach-Level-Index-Report-H12016.pdf) - Gemalto
 * [Flipping the Economics of Attacks](../master/2016/PAN_Ponemon_Report.pdf) - Ponemon Institute
 * [FortiGuard Eye of the Storm](../master/2016/Threat-Report-FortiGuard-Eye-of-Storm.pdf) - Fortinet
@@ -57,6 +59,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Quarterly Threat Intelligence Report Q2 2016](../master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
 * [RSA Cybersecurity Poverty Index](../master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
 * [Ransomware: The Truth Behind the Headlines](../master/2016/ransomware-the-truth-behind-the-headlines.pdf) - Trend Micro
+* [SANS 2016 Survey on Security and Risk in the Financial Sector](../master/2016/trenches-2016-survey-security-risk-financial-sector-37337.pdf) - The SANS Institute
 * [Security Beyond the Traditional Perimeter Executive Summary](../master/2016/Ponemon_External_Threat_2016__ExecSumm.pdf) - Ponemon Institute
 * [Security Pressures Report from Trustwave](../master/2016/2016 Security Pressures Report from Trustwave PDF.pdf) - Trustwave
 * [State of Application Security – Vol. 5, 2016 - Consolidated Edition](../master/2016/State_of_Application_Security_2016_Consolidated_Report.pdf) - Arxan
