@@ -18,7 +18,6 @@ If you have any questions, please reach out to @andrewsmhay.
 
 * [Australian Cyber Security Centre (ACSC) 2016 Threat Report](../master/2016/ACSC_Threat_Report_2016.pdf) - Australian Government, Australian Cyber Security Centre
 * [Beazley Breach Insights - October 2016](../master/2016/201610-ransomware-attacks-set-to-quadruple-in-2016.pdf) - Beazley
-* [BREACH REPORT 2015: Protected Health Information (PHI)](../master/2016/2016-experian-data-breach-industry-forecast.pdf) - Redspin
 * [Business @ Work](../master/2016/Okta_Businesses_at_Work_March_2016.pdf) - Okta
 * [California Data Breach Report](../master/2016/2016-data-breach-report.pdf) - Attorney General, California Department of Justice
 * [Cisco Annual Security Report](../master/2016/cisco-asr-2016.pdf) - Cisco Systems
@@ -31,6 +30,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Data Breach Industry Forecast](../master/2016/2016-experian-data-breach-industry-forecast.pdf) - Experian Data Breach Resolution
 * [Data Breach Investigations Report](../master/2016/rp_DBIR_2016_Report_Insiders_en_xg.pdf) - Verizon
 * [Data Breach Litigation Report](../master/2016/d7691a96-5525-4e86-9e1f-80ee7f6a8185.pdf) - Bryan Cave
+* [Data Breach Response Guide](../master/2016/2016-2017-experian-data-breach-response-guide.pdf) - Experian Data Breach Resolution
 * [Datto's State of the Channel Ransomware Report 2016](../master/2016/DattoStateOfTheChannelRansomwareReport2016_RH.pdf) - Datto
 * [Dell Security Annual Threat Report](../master/2016/dell-security-annual-threat-report-2016-white-paper-19757.pdf) - Dell
 * [Determining the True Costs of a Data Breach](../master/2016/SecureWorksSECO214DeterminingCostsofBreach.pdf) - SecureWorks
@@ -48,6 +48,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [How to Dramatically Improve Corporate IT Security without Spending Millions](../master/2016/How to Dramatically Improve Corporate IT Security Without Spending Millions - Praetorian.pdf) - Praetorian
 * [Internet Security Threat Report](../master/2016/istr-21-2016-en.pdf) - Symantec
 * [Internet Trends 2016 – Code Conference](../master/2016/2016_internet_trends_report_final.pdf) - KPCB
+* [IT Threat Evolution in Q3 2016](../master/2016/KL_Q3_Malware_Report_ENG.pdf) - Kaspersky Lab
 * [M-Trends 2016: Asia Pacific Edition](../master/2016/m-trends-2016-apac-edition.pdf) - Mandiant, a FireEye company
 * [M-Trends 2016: EMEA Edition](../master/2016/M-trends-2016-EMEA.pdf) - Mandiant, a FireEye company
 * [McAfee Labs Threats Report Q1 2016](../master/2016/rp-quarterly-threats-mar-2016.pdf) - McAfee
@@ -57,6 +58,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Network Security and Data Privacy Study: Are you prepared for a breach?](../master/2016/Network-Security-and-Data-Privacy-Study_white_paper_FNL.pdf) - Dena Cusick, Wells Fargo Insurance
 * [Proofpoint Quarterly Threat Summary - Q3 2016](../master/2016/proofpoint-quarterly-threat-report-q316-cm.pdf) - Proofpoint
 * [Quarterly Threat Intelligence Report Q2 2016](../master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
+* [Q3 Malware Review](../master/2016/PhishMe_Malware_Review_2016_Q3.pdf) - PhishMe
 * [RSA Cybersecurity Poverty Index](../master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
 * [Ransomware: The Truth Behind the Headlines](../master/2016/ransomware-the-truth-behind-the-headlines.pdf) - Trend Micro
 * [SANS 2016 Survey on Security and Risk in the Financial Sector](../master/2016/trenches-2016-survey-security-risk-financial-sector-37337.pdf) - The SANS Institute
