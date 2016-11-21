@@ -60,6 +60,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Quarterly Threat Intelligence Report Q2 2016](../master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
 * [Q3 Malware Review](../master/2016/PhishMe_Malware_Review_2016_Q3.pdf) - PhishMe
 * [RSA Cybersecurity Poverty Index](../master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
+* [Ransomware Research Data Summary](../master/2016/Data Summary - English.pdf) - SentinelOne
 * [Ransomware: The Truth Behind the Headlines](../master/2016/ransomware-the-truth-behind-the-headlines.pdf) - Trend Micro
 * [SANS 2016 Survey on Security and Risk in the Financial Sector](../master/2016/trenches-2016-survey-security-risk-financial-sector-37337.pdf) - The SANS Institute
 * [Security Beyond the Traditional Perimeter Executive Summary](../master/2016/Ponemon_External_Threat_2016__ExecSumm.pdf) - Ponemon Institute
