@@ -14,8 +14,14 @@ Adding data:
 
 If you have any questions, please reach out to @andrewsmhay.
 
-## 2016
+## 2017
 
+* [12th annual Worldwide Infrastructure Security Report (WISR)](../master/2017/12th_Worldwide_Infrastructure_Security_Report.pdf.pdf) - Arbor Networks, the security division of NETSCOUT
+    * [Landing Page - "Insight Into The Global Threat Landscape"](https://www.arbornetworks.com/insight-into-the-global-threat-landscape)
+* [2016 Year End Data Breach Quick View](../master/2017/2016 Year End Data Breach QuickView Report.pdf) - Risk Based Security
+    * [Blog Post - "2016 Reported Data Breaches Expose Over 4 Billion Records"](https://www.riskbasedsecurity.com/2017/01/2016-reported-data-breaches-expose-over-4-billion-records/) - January 25, 2017
+* [2017 Credential Spill Report](../master/2017/Shape-2017-Credential-Spill-Report.pdf) - Shape Security
+    * [Blog Post - "2017 Credential Spill Report"](https://blog.shapesecurity.com/2017/01/17/2017-credential-spill-report/) - January 1, 2017
 * [ITRC Breach Stats - Overview 2005 - 2016](../master/2017/Overview2005-2016Final.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Subcontractor Summary](../master/2017/ITRCBreachStatsSubcontractorSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Physical Theft Summary](../master/2017/ITRCBreachStatsPhysicalTheftSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
