@@ -38,6 +38,10 @@ If you have any questions, please reach out to @andrewsmhay.
 * [ITRC Breach Stats - Accidental Email / Internet Exposure Category Summary](../master/2017/ITRCBreachStatsAccidentalExposureSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [State of Malware Report](../master/2017/stateofmalware.pdf) - Malwarebytes Labs
     * [Press Release - "Malwarebytes Releases Global State of Malware Report, Finds 2016 as Year Threat Reality Catches Up to Threat Hype"](https://press.malwarebytes.com/2017/01/31/malwarebytes-releases-global-state-of-malware-report-finds-2016-as-year-threat-reality-catches-up-to-threat-hype/) - January 31, 2017
+* [The Currency of Trust: Why Banks and Insurers Must Make Customer Data Safer and More Secure](../master/2017/GRR17_Report_web.pdf) - Capgemini Consulting
+    * [Press Release - "Just one in five banks and insurers confident they could detect a cybersecurity breach"](https://www.capgemini.com/news/just-one-in-five-banks-and-insurers-confident-they-could-detect-a-cybersecurity-breach) - February 2, 2017
+* [The Global Risks Report 2017](../master/2017/GRR17_Report_web.pdf) - World Economic Forum
+    * [Blog Post - "The Global Risks Report 2017"](https://www.weforum.org/reports/the-global-risks-report-2017) - January 11, 2017
 
 ## 2016
 [2016 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2016/README.md)
