@@ -22,6 +22,8 @@ If you have any questions, please reach out to @andrewsmhay.
     * [Blog Post - "2016 Reported Data Breaches Expose Over 4 Billion Records"](https://www.riskbasedsecurity.com/2017/01/2016-reported-data-breaches-expose-over-4-billion-records/) - January 25, 2017
 * [2017 Credential Spill Report](../master/2017/Shape-2017-Credential-Spill-Report.pdf) - Shape Security
     * [Blog Post - "2017 Credential Spill Report"](https://blog.shapesecurity.com/2017/01/17/2017-credential-spill-report/) - January 1, 2017
+* [2017 SonicWall Annual Threat Report](../master/2017/2017-sonicwall-annual-threat-report-white-paper-24934.pdf) - SonicWall, Inc.
+    * [Landing Page - "2017 SonicWall Annual Threat Report"](https://www.sonicwall.com/whitepaper/2017-sonicwall-annual-threat-report8121810/) - February 7, 2017
 * [2017 Thales Data Threat Report](../master/2017/Thales_2017_Data_Threat_Report-Global_Edition.pdf) - Thales
     * [Press Release - "2017 Thales Data Threat Report: Security Spending Decisions Leave Sensitive Data Vulnerable"](https://www.thales-esecurity.com/company/press/news/2017/january/2017-thales-data-threat-report-security-spending-decisions-leave-sensitive-data-vulnerable) - January 26, 2017
 * [Cisco 2017 Annual Cybersecurity Report](../master/2017/Cisco_Annual_Cybersecurity_Report_2017.pdf) - Cisco Systems
