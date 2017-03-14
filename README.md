@@ -20,9 +20,11 @@ If you have any questions, please reach out to @andrewsmhay.
 * [2016 H2 Global and Regional Threat Intelligence Trends](../master/2017/H2_SummaryRegions_Report_170213_A.cleaned.pdf) - Check Point Threat Intelligence Research Team
 * [2016 Year End Data Breach Quick View](../master/2017/2016 Year End Data Breach QuickView Report.pdf) - Risk Based Security
 * [2017 Credential Spill Report](../master/2017/Shape-2017-Credential-Spill-Report.pdf) - Shape Security
+* [2017 Cyberthreat Defense Report](../master/2017/CyberEdge-2017-CDR-report.pdf) - CyberEdge Group
 * [2017 SonicWall Annual Threat Report](../master/2017/2017-sonicwall-annual-threat-report-white-paper-24934.pdf) - SonicWall, Inc.
 * [2017 Thales Data Threat Report](../master/2017/Thales_2017_Data_Threat_Report-Global_Edition.pdf) - Thales
 * [Cisco 2017 Annual Cybersecurity Report](../master/2017/Cisco_Annual_Cybersecurity_Report_2017.pdf) - Cisco Systems
+* [Data Breach Digest](../master/2017/rp_data-breach-digest-2017-perspective-is-reality_xg_en.pdf) - Verizon
 * [F-Secure State of Cyber Security](../master/2017/cyber-security-report-2017.pdf) - F-Secure
 * [Global Security Report: End of Year 2016](../master/2017/Global Security Report EOY 2016.pdf) - AppRiver
 * [ITRC Breach Stats - Overview 2005 - 2016](../master/2017/Overview2005-2016Final.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
@@ -36,7 +38,9 @@ If you have any questions, please reach out to @andrewsmhay.
 * [ITRC Breach Stats - Exposing Credit/Debit Card Numbers Summary](../master/2017/ITRCBreachStatsBreachExposingCC_DCSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Accidental Email / Internet Exposure Category Summary](../master/2017/ITRCBreachStatsAccidentalExposureSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [State of Malware Report](../master/2017/stateofmalware.pdf) - Malwarebytes Labs
+* [The 2017 Endpoint Protection Ransomware Effectiveness Report](../master/2017/Endpoint Protection Ransomware Effectiveness Report.pdf) - KnowBe4
 * [The Currency of Trust: Why Banks and Insurers Must Make Customer Data Safer and More Secure](../master/2017/GRR17_Report_web.pdf) - Capgemini Consulting
+* [The Cyber Threat to UK Business](../master/2017/The Cyber Threat to UK Business.pdf) - National Cyber Security Center, a part of GCHQ
 * [The Global Risks Report 2017](../master/2017/GRR17_Report_web.pdf) - World Economic Forum
 
 ## 2016
