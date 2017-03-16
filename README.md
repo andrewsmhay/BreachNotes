@@ -37,6 +37,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [ITRC Breach Stats - Exposing Social Security Numbers Summary](../master/2017/ITRCBreachStatsBreachExposingSSNSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Exposing Credit/Debit Card Numbers Summary](../master/2017/ITRCBreachStatsBreachExposingCC_DCSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Accidental Email / Internet Exposure Category Summary](../master/2017/ITRCBreachStatsAccidentalExposureSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
+* [M-Trends 2017: A View From the Front Lines](../master/2017/RPT-M-Trends-2017.pdf) - Mandiant, a FireEye Company
 * [State of Malware Report](../master/2017/stateofmalware.pdf) - Malwarebytes Labs
 * [The 2017 Endpoint Protection Ransomware Effectiveness Report](../master/2017/Endpoint Protection Ransomware Effectiveness Report.pdf) - KnowBe4
 * [The Currency of Trust: Why Banks and Insurers Must Make Customer Data Safer and More Secure](../master/2017/GRR17_Report_web.pdf) - Capgemini Consulting
