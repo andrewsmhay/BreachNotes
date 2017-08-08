@@ -30,7 +30,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Cisco 2017 Annual Cybersecurity Report](../master/2017/Cisco_Annual_Cybersecurity_Report_2017.pdf) - Cisco Systems
 * [Data Breach Digest](../master/2017/rp_data-breach-digest-2017-perspective-is-reality_xg_en.pdf) - Verizon
 * [F-Secure State of Cyber Security](../master/2017/cyber-security-report-2017.pdf) - F-Secure
-* [Global Security Report: End of Year 2016](../master/2017/Global Security Report EOY 2016.pdf) - AppRiver
+* [Global Security Report: End of Year 2016](../master/2017/Global%20Security%20Report%20EOY%202016.pdf) - AppRiver
 * [ITRC Breach Stats - Overview 2005 - 2016](../master/2017/Overview2005-2016Final.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Subcontractor Summary](../master/2017/ITRCBreachStatsSubcontractorSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [ITRC Breach Stats - Physical Theft Summary](../master/2017/ITRCBreachStatsPhysicalTheftSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
@@ -43,9 +43,9 @@ If you have any questions, please reach out to @andrewsmhay.
 * [ITRC Breach Stats - Accidental Email / Internet Exposure Category Summary](../master/2017/ITRCBreachStatsAccidentalExposureSummary2016.pdf) - Identity Theft Resource Center (ITRC) and CyberScout
 * [M-Trends 2017: A View From the Front Lines](../master/2017/RPT-M-Trends-2017.pdf) - Mandiant, a FireEye Company
 * [State of Malware Report](../master/2017/stateofmalware.pdf) - Malwarebytes Labs
-* [The 2017 Endpoint Protection Ransomware Effectiveness Report](../master/2017/Endpoint Protection Ransomware Effectiveness Report.pdf) - KnowBe4
+* [The 2017 Endpoint Protection Ransomware Effectiveness Report](../master/2017/Endpoint%20Protection%20Ransomware%20Effectiveness%20Report.pdf) - KnowBe4
 * [The Currency of Trust: Why Banks and Insurers Must Make Customer Data Safer and More Secure](../master/2017/GRR17_Report_web.pdf) - Capgemini Consulting
-* [The Cyber Threat to UK Business](../master/2017/The Cyber Threat to UK Business.pdf) - National Cyber Security Center, a part of GCHQ
+* [The Cyber Threat to UK Business](../master/2017/The%20Cyber%20Threat%20to%20UK%20Business.pdf) - National Cyber Security Center, a part of GCHQ
 * [The Global Risks Report 2017](../master/2017/GRR17_Report_web.pdf) - World Economic Forum
 
 ## 2016

@@ -58,7 +58,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Quarterly Threat Intelligence Report Q2 2016](../master/2016/sert-q2-2016-threat-report.pdf) - Security Engineering Research Team (SERT)
 * [Q3 Malware Review](../master/2016/PhishMe_Malware_Review_2016_Q3.pdf) - PhishMe
 * [RSA Cybersecurity Poverty Index](../master/2016/h15181-2016-rsa-cybersecurity-poverty.pdf) - RSA
-* [Ransomware Research Data Summary](../master/2016/Data Summary - English.pdf) - SentinelOne
+* [Ransomware Research Data Summary](../master/2016/Data Summary%20-%20English.pdf) - SentinelOne
 * [Ransomware: The Truth Behind the Headlines](../master/2016/ransomware-the-truth-behind-the-headlines.pdf) - Trend Micro
 * [SANS 2016 Survey on Security and Risk in the Financial Sector](../master/2016/trenches-2016-survey-security-risk-financial-sector-37337.pdf) - The SANS Institute
 * [Security Beyond the Traditional Perimeter Executive Summary](../master/2016/Ponemon_External_Threat_2016__ExecSumm.pdf) - Ponemon Institute
@@ -69,7 +69,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [Study Finds More Americans Concerned About Data Privacy Than Losing Their Income](../master/2016/Final%20TRUSTe-NCSA%20US%20Consumer%20Research%20Press%20Release%202016%20Final%20270116.pdf) - TRUSTe/NCSA
 * [Study Finds More British Internet Users Concerned About Data Privacy Than Losing Their Income](../master/2016/Final%20TRUSTe-NCSA%20GB%20Consumer%20Research%20Press%20Release%202016%20FINAL%20270116.pdf) - TRUSTe/NCSA
 * [The Cloud Balancing Act for IT: Between Promise and Peril](../master/2016/WP%20CSA%20Survey%20Cloud%20Balancing%20Act%200116.pdf) - Cloud Security Alliance (CSA), Skyfence
-* [The Cost of Incidents Affecting CIIs](../master/2016/The cost of incidents affecting CIIs.pdf) - European Union Agency for Network and Information Security (ENISA)
+* [The Cost of Incidents Affecting CIIs](../master/2016/The%20cost%20of%20incidents%20affecting%20CIIs.pdf) - European Union Agency for Network and Information Security (ENISA)
 * [The Cyber Security Readiness of Canadian Organizations](../master/2016/2016-Scalar-Security-Study.pdf) - Scalar
 * [The Global Risks Report 2016](../master/2016/WEF_GRR16.pdf) - World Economic Forum 
 * [The Human Factor 2016](../master/2016/human-factor-report-2016.pdf) - Proofpoint
@@ -78,7 +78,7 @@ If you have any questions, please reach out to @andrewsmhay.
 * [The Reign of Ransomware: TrendLabs 2016 1H Security Roundup](../master/2016/rpt-the-reign-of-ransomware.pdf) - Trend Micro
 * [The Rising Face Of Cyber Crime: Ransomware](../master/2016/BitSight_Insights_-_The_Rising_Face_of_Cyber_Crime_Ransomware.pdf) - BitSight Technologies
 * [Threat Detection Effectiveness Survey](../master/2016/H14916-threat-detection-effectiveness-pdf-eb.pdf) - RSA
-* [Trustwave Global Security Report](../master/2016/2016 Trustwave Global Security Report.pdf) - Trustwave
+* [Trustwave Global Security Report](../master/2016/2016%20Trustwave%20Global%20Security%20Report.pdf) - Trustwave
 * [Turnaround and Transformation in Cybersecurity: Key findings from The Global State of Information Security Survey 2016](../master/2016/pwc-global-state-of-information-security-survey-20.pdf) - PWC
 * [Underground Hacker Markets Annual Report](../master/2016/fSecureWorksSECO2123NUndergroundHackerMarketplace.pdf) - SecureWorks
 * [Vormetric Data Threat Report](../master/2016/Vormetric_2016_Data_Threat_Report_Global_WEB.pdf) - Vormetric
