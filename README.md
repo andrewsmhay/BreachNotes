@@ -21,7 +21,10 @@ If you have any questions, please reach out to @andrewsmhay.
 * [2016 H2 Global and Regional Threat Intelligence Trends](../master/2017/H2_SummaryRegions_Report_170213_A.cleaned.pdf) - Check Point Threat Intelligence Research Team
 * [2016 Year End Data Breach Quick View](../master/2017/2016 Year End Data Breach QuickView Report.pdf) - Risk Based Security
 * [2017 Credential Spill Report](../master/2017/Shape-2017-Credential-Spill-Report.pdf) - Shape Security
+* [2017 Cost of Data Breach Study](../master/2017/SEL03130WWEN.PDF) - IBM Security and Ponemon Institute
 * [2017 Cyberthreat Defense Report](../master/2017/CyberEdge-2017-CDR-report.pdf) - CyberEdge Group
+* [2017 Data Breach Investigations Report](../master/2017/rp_DBIR_2017_Report_en_xg.pdf) - Verizon Business
+* [2017 Data Breach Investigations Report - Executive Summary](../master/2017/rp_DBIR_2017_Report_execsummary_en_xg.pdf) - Verizon Business
 * [2017 SonicWall Annual Threat Report](../master/2017/2017-sonicwall-annual-threat-report-white-paper-24934.pdf) - SonicWall, Inc.
 * [2017 Thales Data Threat Report](../master/2017/Thales_2017_Data_Threat_Report-Global_Edition.pdf) - Thales
 * [Cisco 2017 Annual Cybersecurity Report](../master/2017/Cisco_Annual_Cybersecurity_Report_2017.pdf) - Cisco Systems
