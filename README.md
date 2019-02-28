@@ -27,6 +27,8 @@ If you have any questions, please reach out to @andrewsmhay.
 * [2019 Cyber Security Risk Report](../master/2019/2019-Cyber-Security-Risk-Report-Final-US_2019Feb07.pdf) - Aon
 * [Chief Information Security Officer (CISO) Benchmark Study](../master/2019/2019CISOBenchmarkReportCiscoCybersecuritySeries.pdf) - Cisco
 * [Cisco Cybersecurity Report: 2019 Threat Report](../master/2019/CybersecuritySeries_THRT_01_0219_r2_V2.pdf) - Cisco
+* [The 2019 Official Annual Cybercrime Report](../master/2019/CV-HG-2019-Official-Annual-Cybercrime-Report.pdf) - Cybersecurity Ventures
+* [2019 Cyber Security Teams Survey Report](../master/2019/Report_The_CISO_Challenge_Aligning_Business_Enablement_with_Enforcement.pdf) - Thycotic
 
 ## Previous Years
 [2017](https://github.com/andrewsmhay/BreachNotes/tree/master/2017/README.md) | [2016](https://github.com/andrewsmhay/BreachNotes/tree/master/2016/README.md) | [2015](https://github.com/andrewsmhay/BreachNotes/tree/master/2015/README.md)
