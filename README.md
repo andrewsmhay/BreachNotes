@@ -20,9 +20,7 @@ If you have any questions, please reach out to @andrewsmhay.
 
 
 ## Previous Years
-[2017 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2017/README.md)
-[2016 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2016/README.md)
-[2015 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2015/README.md)
+[2017 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2017/README.md) | [2016 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2016/README.md) | [2015 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2015/README.md)
 
 ## Special Thanks
 Special thanks to the folks at [APTNotes](https://github.com/kbandla/APTnotes) for the idea.
