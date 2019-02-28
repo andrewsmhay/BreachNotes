@@ -16,11 +16,12 @@ If you have any questions, please reach out to @andrewsmhay.
 
 ## 2019
 
-* [Trustwave 2017 Global Security Report](../master/2019/Microsoft Security Intelligence Report Volume 24.pdf) - Microsoft Security Intelligence Report Volume 24
+* [Microsoft Security Intelligence Report Volume 24](../master/2019/Microsoft Security Intelligence Report Volume 24.pdf) - Microsoft Security Intelligence Report Volume 24
+* [2019 IBM X-Force Threat Intelligence Index Report](../master/2019/ZGB3ERYD.pdf) - 2019 IBM X-Force Threat Intelligence Index Report)
 
 
 ## Previous Years
-[2017 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2017/README.md) | [2016 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2016/README.md) | [2015 List](https://github.com/andrewsmhay/BreachNotes/tree/master/2015/README.md)
+[2017](https://github.com/andrewsmhay/BreachNotes/tree/master/2017/README.md) | [2016](https://github.com/andrewsmhay/BreachNotes/tree/master/2016/README.md) | [2015](https://github.com/andrewsmhay/BreachNotes/tree/master/2015/README.md)
 
 ## Special Thanks
 Special thanks to the folks at [APTNotes](https://github.com/kbandla/APTnotes) for the idea.
